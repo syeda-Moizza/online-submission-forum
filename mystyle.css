@@ -1,0 +1,104 @@
+body{
+    background-color: rgba(235, 233, 233, 0.822);
+}
+.container{
+width: 48vw;
+margin: auto;
+}
+.box{
+    padding:10px 30px;
+    background-color: white;
+    font-family: sans-serif;
+  }
+  
+ #img{ 
+    position: relative;
+    left: 1vw;
+height: 30vh;
+width: 47vw;
+border-radius: 10px;
+}
+#box2{
+    border: 1px solid rgb(196, 195, 195) ;
+    border-top-right-radius :10px;
+    border-top-left-radius: 10px;
+    margin-top: 15px;
+}
+#mainheading{
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+#box3{
+    border: 1px solid rgb(196, 195, 195) ;
+    border-top: none;
+   }
+  #box4{
+    border: 1px solid rgb(196, 195, 195) ;
+    border-bottom-right-radius :10px;
+    border-bottom-left-radius: 10px; 
+    border-top: none;
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: rgb(219, 40, 40);
+  }
+   #box5 ,#box6,#box7, #box8,#box8,#box9,#box10{
+    border: 1px solid rgb(196, 195, 195) ;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 10px 20px 40px 20px;
+  }
+  #heading{
+    font-family: 'Caveat', cursive;
+    font-size: 27px;
+    font-weight: 590;
+    color: #202124;
+    line-height: 100px;
+  }
+
+#greyish{
+     color: rgb(82, 81, 81);
+}
+#link{
+    text-decoration: none;
+    color: rgb(0, 140, 255);
+   font-weight: lighter;
+}
+p{
+    font-family: sans-serif;
+    color: gray;
+   }
+#inputcss{
+    border: 1px solid gray;
+       width: 90%;
+  padding: 10px;
+    font-size: 14px;
+}
+#cls{
+width: 34%;
+padding: 10px;
+font-size: 25px;
+font-family: 'Caveat', cursive;
+}
+#con2{
+    font-family: sans-serif;
+    color: gray;
+    text-align: center;
+}
+#submit{
+    position: relative;
+    left: 25%;
+    padding: 8px 24px ;
+    background-color:rgb(37, 23, 114);
+    border-radius: 5px;
+}
+#range{
+    position: relative;
+    left: 30%;
+    width: 20%;
+  }
+#pgref{
+    position: relative;
+    left: 31%;
+    font-size: 15px;
+}
+ 
